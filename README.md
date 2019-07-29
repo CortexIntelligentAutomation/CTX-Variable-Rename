@@ -32,7 +32,7 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The Variable Rename module requires the following files:
-* [CTX-Variable-Rename.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Variable-Rename/releases/download/v1.0/CTX-Logging.studiopkg)
+* [CTX-Variable-Rename.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Variable-Rename/releases/download/v1.0/CTX-Variable-Rename.studiopkg)
 
 ### Other
 None
